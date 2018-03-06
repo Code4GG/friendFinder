@@ -1,1 +1,1 @@
-<?php include_once("home.html"); ?>
+<?php include_once("friendFinder/app/public/home.html"); ?>
