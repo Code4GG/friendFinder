@@ -1,1 +1,1 @@
-<?php header( 'Location: /friendFinder/app/public/home.html' ) ;  ?>
+<?php include_once("home.html"); ?>
